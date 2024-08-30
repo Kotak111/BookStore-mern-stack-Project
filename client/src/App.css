@@ -1,0 +1,29 @@
+.nav-item{
+  font-size: 19px;
+  font-weight: bold;
+}
+.nav-link{
+  color: white!important;
+  font-weight: bold;
+  font-family: cursive;
+}
+.nav-link:hover{
+  background-color: red;
+  border-radius: 10px;
+  transition: 1s all linear;
+}
+.navbar-brand{
+  font-family: yes;
+  color: red!important;
+  font-size: 40px;
+  font-weight: bold;
+}
+@font-face {
+  font-family: yes;
+  src: url("./component/layout/cakecafe/Cakecafe.ttf");
+}
+.add-blog{
+  font-family: yes;
+  color: chocolate;
+  font-weight: bold;
+}
